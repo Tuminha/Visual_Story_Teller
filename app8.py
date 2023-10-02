@@ -43,4 +43,4 @@ if st.button('Generate Idea 🚀'):
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by [Your Name or Company]")
+st.markdown("Made with ❤️ by Tuminha_dds- GitHub: Tuminha")
