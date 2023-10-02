@@ -29,3 +29,6 @@ if st.button('Generate Idea'):
 
     # Display the idea
     st.write(idea)
+    # Together with the idea output, display a message that says "Based on insights shared by Jun Han Chin"
+    st.write("Based on insights shared by Jun Han Chin")
+    
